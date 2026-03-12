@@ -45,12 +45,6 @@ Evaluated on held-out test set from the same distribution as training data.
 
 ---
 
-## 🚀 How to Use
-
-1. **Image tab** — Upload any aerial/drone image containing cows
-2. **Video tab** — Upload a short aerial video (first 30s processed)
-3. Click **Detect Cows** and see bounding boxes with confidence scores
-
 ### Confidence color coding
 - 🟢 Green — confidence ≥ 0.75
 - 🟡 Yellow — confidence ≥ 0.50  
